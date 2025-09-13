@@ -12,17 +12,17 @@ Apply Event-Driven Programming.
 3.Features
 
 File Menu
-- Open: Load a file into the editor.  
-- Save: Save current text to a file.  
-- Exit: Close the application.
+Open: Load a file into the editor.  
+Save: Save current text to a file.  
+Exit: Close the application.
 
 Edit Menu
-- Cut: Remove selected text.  
-- Copy: Copy selected text to clipboard.  
-- Paste: Insert clipboard content. 
+Cut: Remove selected text.  
+Copy: Copy selected text to clipboard.  
+Paste: Insert clipboard content. 
 
 Help Menu
-- About: Displays a dialog with developer name and Index.
+About: Displays a dialog with developer name and Index.
 
 4.Components Used
 
